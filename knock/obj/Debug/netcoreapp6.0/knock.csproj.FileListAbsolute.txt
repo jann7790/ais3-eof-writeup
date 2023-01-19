@@ -1,0 +1,13 @@
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\knock.csproj.AssemblyReference.cache
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\knock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\knock.csproj.CoreCompileInputs.cache
+C:\Users\jann7\Desktop\eof\knock\bin\Debug\netcoreapp6.0\knock.exe
+C:\Users\jann7\Desktop\eof\knock\bin\Debug\netcoreapp6.0\knock.deps.json
+C:\Users\jann7\Desktop\eof\knock\bin\Debug\netcoreapp6.0\knock.runtimeconfig.json
+C:\Users\jann7\Desktop\eof\knock\bin\Debug\netcoreapp6.0\knock.dll
+C:\Users\jann7\Desktop\eof\knock\bin\Debug\netcoreapp6.0\knock.pdb
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\knock.dll
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\refint\knock.dll
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\knock.pdb
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\knock.genruntimeconfig.cache
+C:\Users\jann7\Desktop\eof\knock\obj\Debug\netcoreapp6.0\ref\knock.dll
