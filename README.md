@@ -1,5 +1,7 @@
 # eof
 
+紀錄一下排名 找教授的時候或許能派上用場
+![plot](./ais3-eof.jpg)
 
 
 ## Reverse
